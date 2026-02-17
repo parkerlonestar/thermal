@@ -1,0 +1,10 @@
+{
+  "name": "Thermo Tex Insulation LLC",
+  "short_name": "Thermo Tex",
+  "description": "Professional mechanical insulation services across Texas. Pipe insulation, duct wrap, jacket metaling, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1565C0",
+  "icons": []
+}
